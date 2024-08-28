@@ -19,6 +19,10 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 - ![Banco de Dados](https://img.shields.io/badge/-Banco_de_Dados-4479A1?logo=database&logoColor=white&style=flat-square)
 
+## Projetos Desenvolvidos:
+- 🔗https://devjeffers.github.io/Refugio-Solidario/
+- 🔗https://credsolucoesfinanceira.com.br/
+
 - 🌱 **Atualmente Aprendendo**:
   - Bootcamp **XP Inc. - Full Stack Developer** na **DIO**: Desenvolvimento de aplicações web de ponta a ponta com
 ![.NET](https://img.shields.io/badge/-_NET-512BD4?logo=dotnet&logoColor=white&style=flat-square) e
