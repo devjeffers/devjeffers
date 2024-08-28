@@ -20,7 +20,7 @@
 - ![Banco de Dados](https://img.shields.io/badge/-Banco_de_Dados-4479A1?logo=database&logoColor=white&style=flat-square)
 
 ## Projetos Desenvolvidos:
-### Convido você para conhecer um pouquinhos esses projetos!
+### Convido você para conhecer um pouquinho esses projetos!
 - 🔗[Site Refúgio Solidário](https://devjeffers.github.io/Refugio-Solidario/)
 - 🔗[Site Cred Soluções Financeiras](https://credsolucoesfinanceira.com.br/)
 - 🔗[Site Agregador de links](https://devjeffers.github.io/Projeto_Rocketseat/)
