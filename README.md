@@ -20,16 +20,18 @@
 - ![Banco de Dados](https://img.shields.io/badge/-Banco_de_Dados-4479A1?logo=database&logoColor=white&style=flat-square)
 
 ## Projetos Desenvolvidos:
-- 🔗https://devjeffers.github.io/Refugio-Solidario/
-- 🔗https://credsolucoesfinanceira.com.br/
+### Convido você para conhecer um pouquinhos esses projetos!
+- 🔗[Site Refúgio Solidário](https://devjeffers.github.io/Refugio-Solidario/)
+- 🔗[Site Cred Soluções Financeiras](https://credsolucoesfinanceira.com.br/)
+- 🔗[Site Agregador de links](https://devjeffers.github.io/Projeto_Rocketseat/)
 
-- 🌱 **Atualmente Aprendendo**:
+### 🌱 **Atualmente Aprendendo**:
   - Bootcamp **XP Inc. - Full Stack Developer** na **DIO**: Desenvolvimento de aplicações web de ponta a ponta com
 ![.NET](https://img.shields.io/badge/-_NET-512BD4?logo=dotnet&logoColor=white&style=flat-square) e
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
   - Formação ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) Backend Developer na DIO.
   - Curso de **English4Tech** pela **DIO Global**.
-- 🎓 **Programas e Iniciativas**:
+### 🎓 **Programas e Iniciativas**:
   - Participante do **DIO Campus Expert | Turma 09.**
 
 ## Contato
