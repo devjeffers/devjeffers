@@ -1,9 +1,9 @@
 # devjeffers 👨‍💻💻🖱🎸🎹🎵
 
-👋 Olá! Eu sou o Jeffers, um entusiasta da tecnologia, músico e estudante de Análise e Desenvolvimento de Sistemas (ADS) na UniFatecie, com conclusão prevista para 2025.
+👋 Olá! Eu sou o Jefferson, um entusiasta da tecnologia, músico e estudante de Análise e Desenvolvimento de Sistemas (ADS) na UniFatecie, com conclusão prevista para 2025.
 
 ## Sobre Mim
-- 👨🏽‍🎓 **Formação Acadêmica**: Atualmente, estou cursando ADS na UniFatecie, onde estou desenvolvendo minhas habilidades em programação e desenvolvimento de software.
+- 👨🏽‍🎓 **Formação Acadêmica**: Analista de Sistemas - UniFatecie | 2025, onde estou desenvolvendo minhas habilidades em programação e desenvolvimento de software.
 - 🎵 **Músico**: Além da tecnologia, a música é uma das minhas paixões. A criatividade que encontro na música complementa meu trabalho como desenvolvedor.
 - 📚 **Cursos Complementares**: 
   - Proz
